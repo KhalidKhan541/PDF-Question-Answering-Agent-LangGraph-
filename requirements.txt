@@ -1,0 +1,27 @@
+# Core
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-chroma>=0.1.4
+
+# LLM providers (install only what you need)
+langchain-openai>=0.2.0        # for OpenAI / GPT-4o
+langchain-anthropic>=0.3.0     # for Claude
+langchain-ollama>=0.2.0        # for local Ollama models
+langchain-groq>=0.2.0          # for Groq (fast inference)
+
+# Embeddings
+langchain-huggingface>=0.1.0   # sentence-transformers (free, local)
+
+# Document loaders
+pypdf>=5.0.0                   # PDF loading
+unstructured>=0.16.0           # Markdown + misc formats
+
+# Vector store
+chromadb>=0.5.0
+
+# Dev / testing
+pytest>=8.0.0
+python-dotenv>=1.0.0
