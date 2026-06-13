@@ -1,4 +1,5 @@
 # Document Q&A Agent — LangGraph RAG + Reflection Loop
+[![Hire me on Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-1dbf73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/khalid_khan55)
 
 A production-ready document Q&A pipeline built with LangGraph. The agent retrieves
 relevant chunks, generates an answer, then **critiques its own answer** and retries
